@@ -12,8 +12,8 @@ body {
 }
 
 .primary-button{
-    padding: 15px 35px;
-    font-size: 20px;
+    padding: 30p 35px;
+    font-size: 15px;
     font-weight: 700;
     background-color: #FD6E0A;
     border: 0;
@@ -26,6 +26,7 @@ body {
 /* nav related styles */
 
 nav {
+    margin:0px 200px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -53,3 +54,18 @@ nav a{
     color: #474747;
 }
 
+/* header related styles */
+
+.header{
+    background-color: #FFF8F3;
+
+}
+
+.banner{
+    pading:30px 30px 30px 150px  ;
+    display: flex;
+}
+
+.banner .profile-pic{
+    width: 500px;
+}
