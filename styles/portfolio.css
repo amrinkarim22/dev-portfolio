@@ -228,3 +228,21 @@ main section{
     margin-top: 50px;
 }
 /* footer part started */
+
+footer{
+    margin-top: 100px;
+    padding: 130px 200px;
+    display: flex;
+    background-color: bisque;
+}
+.footer-column{
+
+}
+.section-title{
+    font-size: 35px;
+}
+
+.section-description{
+    font-size: 16px;
+   
+}
