@@ -234,9 +234,11 @@ footer{
     padding: 130px 200px;
     display: flex;
     background-color: bisque;
+    gap: 100px;
 }
 .footer-column{
 
+  width: 50%;
 }
 .section-title{
     font-size: 35px;
@@ -244,5 +246,6 @@ footer{
 
 .section-description{
     font-size: 16px;
+    text-align: left;
    
 }
