@@ -189,3 +189,12 @@ main section{
    line-height: 28px;
 
 }
+
+/* resume column styles */
+
+.resume-column-title{
+
+    font-size: 30px;
+    font-weight: 700;
+    color: #474747;
+}
